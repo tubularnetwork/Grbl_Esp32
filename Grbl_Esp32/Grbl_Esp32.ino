@@ -21,7 +21,7 @@
 #include "src/Grbl.h"
 #include "src/UserBoard.h"
 #include "Wire.h"
-#include "M5Stack.h"
+#include "M5Core2.h"
 
 extern void userBoardInit(); 
 
